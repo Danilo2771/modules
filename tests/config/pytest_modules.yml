@@ -1445,6 +1445,10 @@ tiddit/sv:
   - modules/tiddit/sv/**
   - tests/modules/tiddit/sv/**
 
+transdecoder:
+  - modules/transdecoder/**
+  - tests/modules/transdecoder/**
+
 trimgalore:
   - modules/trimgalore/**
   - tests/modules/trimgalore/**
