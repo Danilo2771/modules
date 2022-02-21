@@ -472,6 +472,10 @@ ensemblvep:
   - modules/ensemblvep/**
   - tests/modules/ensemblvep/**
 
+eukulele:
+  - modules/eukulele/**
+  - tests/modules/eukulele/**
+
 expansionhunter:
   - modules/expansionhunter/**
   - tests/modules/expansionhunter/**
